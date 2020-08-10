@@ -1,5 +1,5 @@
 # Title of your homepage
-title: ChangeLog of Brandname #(required)
+title: ChangeLog of Kuai Browser
 
 # Website Description for search engines (optional)
 description: "Keep yourself up to date with our new product features"
@@ -11,7 +11,7 @@ heading: Updates # (optional)
 logo: /assets/images/logo.png #(required)
 
 # Your Product's Website
-website: https://changelog.site # (required)
+website: https://Kuaiaio.com # (required)
 
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
@@ -22,13 +22,7 @@ baseurl: '' # optional
 
 
 # Github username/repo where your code is hosted.
-github: changelogsite/changelog # (required)
-
-# remove this line if don't want to show Github Star Badge
-star-badge: true  #(optional)
-
-# remove this line if don't want to show Github Watch Badge
-watch-badge: true #(optional)
+github: treyrob/Kuai_Browser # (required)
 
 # Show rss feed icon in menubar. To disable this comment below line by adding # as first character.
 rss-feed-icon: true #(optional)
