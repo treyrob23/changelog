@@ -8,7 +8,7 @@ description: "Keep yourself up to date with our new product features"
 heading: Updates # (optional)
 
 # absolute or relative path of logo
-logo: /assets/images/logo.png #(required)
+logo: /assets/images/KuaiPNG_2.png #(required)
 
 # Your Product's Website
 website: https://Kuaiaio.com # (required)
